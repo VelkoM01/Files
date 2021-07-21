@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621204231 source:d:\app\kursovapik2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
